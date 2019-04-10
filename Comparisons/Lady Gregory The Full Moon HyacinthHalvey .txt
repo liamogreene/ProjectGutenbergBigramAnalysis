@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  Lady Gregory The Full Moon HyacinthHalvey . X2 value: 0.11743985934001111
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 17.322236036467583, Rank Cumulative = 1346.0
+*----- Defeat = 1.300076282949636 Rank Cumulative = 115.0
+*----- Hall-Marked = 6.114674991757485 Rank Cumulative = 446.0
+*----- Punch And Go = 6.117969210978443 Rank Cumulative = 450.0
+*----- The First And Last = 2.06474369586398 Rank Cumulative = 202.0
+*----- The Sun = 1.7247718549180415 Rank Cumulative = 133.0
+
+ Lady Gregory X^2 Cumulative = 8.6381124182481 Rank Cumulative = 398.0
+*----- Coats = 1.412842831873643 Rank Cumulative = 70.0
+*----- Darmer's Gold = 2.207906419390182 Rank Cumulative = 90.0
+*----- McDonough's Wife = 2.1049376103677964 Rank Cumulative = 138.0
+*----- The Bogie Men = 1.011203841721606 Rank Cumulative = 55.0
+*----- The Full Moon = 1.9012217148948758 Rank Cumulative = 45.0
+
+ Bernard Shaw X^2 Cumulative = 15.690485737140072 Rank Cumulative = 1258.0
+*----- Augustus Does His Bit = 1.4175004819176888 Rank Cumulative = 72.0
+*----- Dark Lady Of The Sonnets = 4.853373603303242 Rank Cumulative = 404.0
+*----- How He Lied = 1.8199820166573888 Rank Cumulative = 148.0
+*----- Overruled = 4.028197795506876 Rank Cumulative = 347.0
+*----- The Inca Of Perusalem = 3.5714318397548785 Rank Cumulative = 287.0
+-----------------------------

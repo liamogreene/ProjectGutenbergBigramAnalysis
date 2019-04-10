@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  Lady Gregory Darmer's Gold Ralph . X2 value: 0.18214170802750063
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 17.666682566122144, Rank Cumulative = 1407.0
+*----- Defeat = 1.2413394234509882 Rank Cumulative = 111.0
+*----- Hall-Marked = 5.870446169813264 Rank Cumulative = 401.0
+*----- Punch And Go = 6.756346818243445 Rank Cumulative = 543.0
+*----- The First And Last = 2.0081629084433237 Rank Cumulative = 199.0
+*----- The Sun = 1.7903872461711237 Rank Cumulative = 153.0
+
+ Lady Gregory X^2 Cumulative = 8.396228939746756 Rank Cumulative = 351.0
+*----- Coats = 1.341653656494906 Rank Cumulative = 60.0
+*----- Darmer's Gold = 1.8900867581740166 Rank Cumulative = 71.0
+*----- McDonough's Wife = 2.0473812151677935 Rank Cumulative = 135.0
+*----- The Bogie Men = 0.8689656215719299 Rank Cumulative = 34.0
+*----- The Full Moon = 2.248141688338108 Rank Cumulative = 51.0
+
+ Bernard Shaw X^2 Cumulative = 15.53448400373275 Rank Cumulative = 1244.0
+*----- Augustus Does His Bit = 1.64509053691765 Rank Cumulative = 119.0
+*----- Dark Lady Of The Sonnets = 4.912771335291576 Rank Cumulative = 406.0
+*----- How He Lied = 1.5697738233625727 Rank Cumulative = 103.0
+*----- Overruled = 3.919492243439051 Rank Cumulative = 345.0
+*----- The Inca Of Perusalem = 3.487356064721899 Rank Cumulative = 271.0
+-----------------------------

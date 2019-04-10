@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  John Galsworthy Defeat GIRL . X2 value: 0.30999426804962854
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 4.803225423897285, Rank Cumulative = 553.0
+*----- Defeat = 0.6567840284405249 Rank Cumulative = 97.0
+*----- Hall-Marked = 0.8639391116264395 Rank Cumulative = 105.0
+*----- Punch And Go = 1.256463606285028 Rank Cumulative = 126.0
+*----- The First And Last = 1.1551942590573439 Rank Cumulative = 119.0
+*----- The Sun = 0.8708444184879478 Rank Cumulative = 106.0
+
+ Lady Gregory X^2 Cumulative = 7.503480643515156 Rank Cumulative = 691.0
+*----- Coats = 1.1660109095729645 Rank Cumulative = 121.0
+*----- Darmer's Gold = 1.7381691675556221 Rank Cumulative = 151.0
+*----- McDonough's Wife = 1.6864945351427623 Rank Cumulative = 145.0
+*----- The Bogie Men = 1.6302319423584821 Rank Cumulative = 146.0
+*----- The Full Moon = 1.282574088885326 Rank Cumulative = 128.0
+
+ Bernard Shaw X^2 Cumulative = 6.0986257450735435 Rank Cumulative = 631.0
+*----- Augustus Does His Bit = 1.1989256224466038 Rank Cumulative = 128.0
+*----- Dark Lady Of The Sonnets = 1.2664198635367965 Rank Cumulative = 127.0
+*----- How He Lied = 1.1741079319701693 Rank Cumulative = 123.0
+*----- Overruled = 1.2967215272061268 Rank Cumulative = 132.0
+*----- The Inca Of Perusalem = 1.162450799913847 Rank Cumulative = 121.0
+-----------------------------

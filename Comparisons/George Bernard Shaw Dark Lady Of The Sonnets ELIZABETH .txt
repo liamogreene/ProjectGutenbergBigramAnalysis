@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  George Bernard Shaw Dark Lady Of The Sonnets ELIZABETH . X2 value: 0.15908505007573562
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 16.663263399290695, Rank Cumulative = 1367.0
+*----- Defeat = 1.0904107458626942 Rank Cumulative = 84.0
+*----- Hall-Marked = 5.491164780837607 Rank Cumulative = 378.0
+*----- Punch And Go = 6.295006893075927 Rank Cumulative = 528.0
+*----- The First And Last = 1.9614541163637427 Rank Cumulative = 200.0
+*----- The Sun = 1.8252268631507247 Rank Cumulative = 177.0
+
+ Lady Gregory X^2 Cumulative = 10.547602706281465 Rank Cumulative = 830.0
+*----- Coats = 1.650198689160797 Rank Cumulative = 136.0
+*----- Darmer's Gold = 3.105790783775006 Rank Cumulative = 309.0
+*----- McDonough's Wife = 2.0955047949337198 Rank Cumulative = 160.0
+*----- The Bogie Men = 1.1916452769257777 Rank Cumulative = 110.0
+*----- The Full Moon = 2.5044631614861674 Rank Cumulative = 115.0
+
+ Bernard Shaw X^2 Cumulative = 12.436520374209453 Rank Cumulative = 805.0
+*----- Augustus Does His Bit = 1.3555412100246023 Rank Cumulative = 69.0
+*----- Dark Lady Of The Sonnets = 3.336247158370232 Rank Cumulative = 177.0
+*----- How He Lied = 1.5611665689834817 Rank Cumulative = 117.0
+*----- Overruled = 3.399998230648293 Rank Cumulative = 289.0
+*----- The Inca Of Perusalem = 2.7835672061828407 Rank Cumulative = 153.0
+-----------------------------

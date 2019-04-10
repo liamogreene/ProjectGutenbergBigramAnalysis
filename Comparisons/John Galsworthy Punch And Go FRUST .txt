@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  John Galsworthy Punch And Go FRUST . X2 value: 0.07299257867190832
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 14.858733848214476, Rank Cumulative = 913.0
+*----- Defeat = 1.2637825681886015 Rank Cumulative = 96.0
+*----- Hall-Marked = 4.767968795230758 Rank Cumulative = 209.0
+*----- Punch And Go = 5.393205389168102 Rank Cumulative = 363.0
+*----- The First And Last = 2.0209292099880263 Rank Cumulative = 165.0
+*----- The Sun = 1.412847885638988 Rank Cumulative = 80.0
+
+ Lady Gregory X^2 Cumulative = 13.15317167003618 Rank Cumulative = 954.0
+*----- Coats = 2.1414719150838035 Rank Cumulative = 160.0
+*----- Darmer's Gold = 4.052710990755133 Rank Cumulative = 327.0
+*----- McDonough's Wife = 2.7308627234954295 Rank Cumulative = 215.0
+*----- The Bogie Men = 1.649383184726132 Rank Cumulative = 134.0
+*----- The Full Moon = 2.57874285597568 Rank Cumulative = 118.0
+
+ Bernard Shaw X^2 Cumulative = 15.656598878649431 Rank Cumulative = 1135.0
+*----- Augustus Does His Bit = 1.6148918055095591 Rank Cumulative = 115.0
+*----- Dark Lady Of The Sonnets = 4.530401921606373 Rank Cumulative = 337.0
+*----- How He Lied = 2.1614223294761437 Rank Cumulative = 172.0
+*----- Overruled = 3.936320055722212 Rank Cumulative = 288.0
+*----- The Inca Of Perusalem = 3.413562766335143 Rank Cumulative = 223.0
+-----------------------------

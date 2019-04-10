@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  Lady Gregory Coats Mineog . X2 value: 0.26954209397135964
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 15.705798829852956, Rank Cumulative = 1432.0
+*----- Defeat = 1.066907340678469 Rank Cumulative = 115.0
+*----- Hall-Marked = 4.973552626873537 Rank Cumulative = 331.0
+*----- Punch And Go = 6.251101299145033 Rank Cumulative = 617.0
+*----- The First And Last = 1.8295669444994385 Rank Cumulative = 209.0
+*----- The Sun = 1.5846706186564783 Rank Cumulative = 160.0
+
+ Lady Gregory X^2 Cumulative = 8.426077981134826 Rank Cumulative = 492.0
+*----- Coats = 1.1332790078797466 Rank Cumulative = 47.0
+*----- Darmer's Gold = 2.4258059611859464 Rank Cumulative = 193.0
+*----- McDonough's Wife = 1.8750988040019643 Rank Cumulative = 145.0
+*----- The Bogie Men = 0.9527446810308018 Rank Cumulative = 65.0
+*----- The Full Moon = 2.0391495270363658 Rank Cumulative = 42.0
+
+ Bernard Shaw X^2 Cumulative = 12.770591667053854 Rank Cumulative = 1078.0
+*----- Augustus Does His Bit = 1.3471756413290308 Rank Cumulative = 75.0
+*----- Dark Lady Of The Sonnets = 4.005665624289036 Rank Cumulative = 359.0
+*----- How He Lied = 1.381023503846166 Rank Cumulative = 101.0
+*----- Overruled = 3.2138295538145343 Rank Cumulative = 322.0
+*----- The Inca Of Perusalem = 2.8228973437750873 Rank Cumulative = 221.0
+-----------------------------

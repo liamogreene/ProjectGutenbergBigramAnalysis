@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  John Galsworthy The First And Last WANDA . X2 value: 0.2523189677980526
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 14.478895632374426, Rank Cumulative = 868.0
+*----- Defeat = 1.045475774726158 Rank Cumulative = 74.0
+*----- Hall-Marked = 4.514599812406442 Rank Cumulative = 199.0
+*----- Punch And Go = 6.466820249406777 Rank Cumulative = 480.0
+*----- The First And Last = 1.2440649118311176 Rank Cumulative = 65.0
+*----- The Sun = 1.2079348840039335 Rank Cumulative = 50.0
+
+ Lady Gregory X^2 Cumulative = 13.653661073480073 Rank Cumulative = 1025.0
+*----- Coats = 2.176065449299878 Rank Cumulative = 167.0
+*----- Darmer's Gold = 4.009503596598284 Rank Cumulative = 329.0
+*----- McDonough's Wife = 2.953396398929058 Rank Cumulative = 229.0
+*----- The Bogie Men = 1.723087971206592 Rank Cumulative = 144.0
+*----- The Full Moon = 2.7916076574462583 Rank Cumulative = 156.0
+
+ Bernard Shaw X^2 Cumulative = 15.102995808587767 Rank Cumulative = 1109.0
+*----- Augustus Does His Bit = 1.6814014764744034 Rank Cumulative = 124.0
+*----- Dark Lady Of The Sonnets = 4.64899263974551 Rank Cumulative = 339.0
+*----- How He Lied = 1.8608037409382707 Rank Cumulative = 149.0
+*----- Overruled = 3.644867259654322 Rank Cumulative = 279.0
+*----- The Inca Of Perusalem = 3.266930691775263 Rank Cumulative = 218.0
+-----------------------------

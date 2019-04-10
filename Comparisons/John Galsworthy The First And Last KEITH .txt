@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  John Galsworthy The First And Last KEITH . X2 value: 0.31933823059656263
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 5.369043861443632, Rank Cumulative = 560.0
+*----- Defeat = 1.2556431685656153 Rank Cumulative = 119.0
+*----- Hall-Marked = 0.8336185616420462 Rank Cumulative = 99.0
+*----- Punch And Go = 1.2795440684402546 Rank Cumulative = 120.0
+*----- The First And Last = 0.9387508882142976 Rank Cumulative = 108.0
+*----- The Sun = 1.061487174581419 Rank Cumulative = 114.0
+
+ Lady Gregory X^2 Cumulative = 8.797391925007195 Rank Cumulative = 691.0
+*----- Coats = 1.5060520877020596 Rank Cumulative = 130.0
+*----- Darmer's Gold = 2.0723186569016008 Rank Cumulative = 150.0
+*----- McDonough's Wife = 1.7241110141720677 Rank Cumulative = 137.0
+*----- The Bogie Men = 2.069793277672455 Rank Cumulative = 150.0
+*----- The Full Moon = 1.4251168885590113 Rank Cumulative = 124.0
+
+ Bernard Shaw X^2 Cumulative = 6.890421350414528 Rank Cumulative = 624.0
+*----- Augustus Does His Bit = 1.302676345717049 Rank Cumulative = 122.0
+*----- Dark Lady Of The Sonnets = 1.2485583196455585 Rank Cumulative = 118.0
+*----- How He Lied = 1.3171159056847563 Rank Cumulative = 123.0
+*----- Overruled = 1.7758301551674962 Rank Cumulative = 141.0
+*----- The Inca Of Perusalem = 1.2462406241996682 Rank Cumulative = 120.0
+-----------------------------

@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  John Galsworthy Hall-Marked SQUIRE . X2 value: 0.0032023460835567106
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 15.146651185894694, Rank Cumulative = 834.0
+*----- Defeat = 1.4028610290997587 Rank Cumulative = 86.0
+*----- Hall-Marked = 3.717934365342201 Rank Cumulative = 126.0
+*----- Punch And Go = 6.534411124922202 Rank Cumulative = 395.0
+*----- The First And Last = 2.0010660258205464 Rank Cumulative = 143.0
+*----- The Sun = 1.4903786407099844 Rank Cumulative = 84.0
+
+ Lady Gregory X^2 Cumulative = 15.942990592592817 Rank Cumulative = 1016.0
+*----- Coats = 2.636060582163448 Rank Cumulative = 161.0
+*----- Darmer's Gold = 5.037129662808966 Rank Cumulative = 329.0
+*----- McDonough's Wife = 3.086339934282092 Rank Cumulative = 207.0
+*----- The Bogie Men = 2.0799344904740225 Rank Cumulative = 137.0
+*----- The Full Moon = 3.1035259228642893 Rank Cumulative = 182.0
+
+ Bernard Shaw X^2 Cumulative = 17.95097354529767 Rank Cumulative = 1152.0
+*----- Augustus Does His Bit = 2.093670890144314 Rank Cumulative = 142.0
+*----- Dark Lady Of The Sonnets = 4.9011423469674416 Rank Cumulative = 321.0
+*----- How He Lied = 2.4772610234118986 Rank Cumulative = 169.0
+*----- Overruled = 4.3047115507408495 Rank Cumulative = 274.0
+*----- The Inca Of Perusalem = 4.174187734033169 Rank Cumulative = 246.0
+-----------------------------

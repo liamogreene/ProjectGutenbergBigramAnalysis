@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  John Galsworthy Punch And Go VANE . X2 value: 0.046992105112944015
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 14.223328600478247, Rank Cumulative = 801.0
+*----- Defeat = 1.3960957559973812 Rank Cumulative = 86.0
+*----- Hall-Marked = 4.513137010730666 Rank Cumulative = 199.0
+*----- Punch And Go = 4.624388691585919 Rank Cumulative = 261.0
+*----- The First And Last = 2.248865349711683 Rank Cumulative = 162.0
+*----- The Sun = 1.440841792452598 Rank Cumulative = 93.0
+
+ Lady Gregory X^2 Cumulative = 16.409565478167437 Rank Cumulative = 1009.0
+*----- Coats = 2.705286941592494 Rank Cumulative = 154.0
+*----- Darmer's Gold = 5.160568759954026 Rank Cumulative = 321.0
+*----- McDonough's Wife = 3.143405455563259 Rank Cumulative = 198.0
+*----- The Bogie Men = 2.2768848159753654 Rank Cumulative = 144.0
+*----- The Full Moon = 3.1234195050822917 Rank Cumulative = 192.0
+
+ Bernard Shaw X^2 Cumulative = 17.930486141400586 Rank Cumulative = 1192.0
+*----- Augustus Does His Bit = 1.9839457619591456 Rank Cumulative = 141.0
+*----- Dark Lady Of The Sonnets = 4.795076415485161 Rank Cumulative = 328.0
+*----- How He Lied = 2.67474743226276 Rank Cumulative = 178.0
+*----- Overruled = 4.535245286537818 Rank Cumulative = 301.0
+*----- The Inca Of Perusalem = 3.941471245155702 Rank Cumulative = 244.0
+-----------------------------

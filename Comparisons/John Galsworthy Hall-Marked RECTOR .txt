@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  John Galsworthy Hall-Marked RECTOR . X2 value: 0.0010377833112156004
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 13.445839830399134, Rank Cumulative = 767.0
+*----- Defeat = 1.5227009416013524 Rank Cumulative = 101.0
+*----- Hall-Marked = 3.2223673775164654 Rank Cumulative = 115.0
+*----- Punch And Go = 4.849766247546515 Rank Cumulative = 297.0
+*----- The First And Last = 2.485372773026051 Rank Cumulative = 170.0
+*----- The Sun = 1.365632490708753 Rank Cumulative = 84.0
+
+ Lady Gregory X^2 Cumulative = 16.28403194348033 Rank Cumulative = 1021.0
+*----- Coats = 2.8129025958053457 Rank Cumulative = 157.0
+*----- Darmer's Gold = 4.980928709447343 Rank Cumulative = 306.0
+*----- McDonough's Wife = 3.077735221727327 Rank Cumulative = 199.0
+*----- The Bogie Men = 2.122960782980185 Rank Cumulative = 134.0
+*----- The Full Moon = 3.289504633520126 Rank Cumulative = 225.0
+
+ Bernard Shaw X^2 Cumulative = 19.04392222747699 Rank Cumulative = 1214.0
+*----- Augustus Does His Bit = 2.405912224094479 Rank Cumulative = 160.0
+*----- Dark Lady Of The Sonnets = 4.577785065671448 Rank Cumulative = 308.0
+*----- How He Lied = 2.899502416920005 Rank Cumulative = 184.0
+*----- Overruled = 4.451681055648108 Rank Cumulative = 283.0
+*----- The Inca Of Perusalem = 4.709041465142951 Rank Cumulative = 279.0
+-----------------------------

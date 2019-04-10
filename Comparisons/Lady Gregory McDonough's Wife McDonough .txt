@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  Lady Gregory McDonough's Wife McDonough . X2 value: 0.2391900659027718
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 6.0017354439953134, Rank Cumulative = 677.0
+*----- Defeat = 1.255185877401846 Rank Cumulative = 146.0
+*----- Hall-Marked = 0.9888859128191327 Rank Cumulative = 117.0
+*----- Punch And Go = 1.4224481079466718 Rank Cumulative = 144.0
+*----- The First And Last = 1.2621885337492356 Rank Cumulative = 144.0
+*----- The Sun = 1.0730270120784282 Rank Cumulative = 126.0
+
+ Lady Gregory X^2 Cumulative = 4.080184902244108 Rank Cumulative = 534.0
+*----- Coats = 0.9317502419434638 Rank Cumulative = 113.0
+*----- Darmer's Gold = 0.9224347822006453 Rank Cumulative = 111.0
+*----- McDonough's Wife = 0.5487626634518408 Rank Cumulative = 97.0
+*----- The Bogie Men = 0.9486206875073191 Rank Cumulative = 112.0
+*----- The Full Moon = 0.7286165271408397 Rank Cumulative = 101.0
+
+ Bernard Shaw X^2 Cumulative = 5.681282257997317 Rank Cumulative = 664.0
+*----- Augustus Does His Bit = 1.062038331390381 Rank Cumulative = 125.0
+*----- Dark Lady Of The Sonnets = 1.128770590813583 Rank Cumulative = 133.0
+*----- How He Lied = 1.086943367540196 Rank Cumulative = 130.0
+*----- Overruled = 1.3408531648645048 Rank Cumulative = 149.0
+*----- The Inca Of Perusalem = 1.0626768033886524 Rank Cumulative = 127.0
+-----------------------------

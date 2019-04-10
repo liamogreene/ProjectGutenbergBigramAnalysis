@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  John Galsworthy The Sun MAN . X2 value: 0.05012622718020786
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 4.4537570550387775, Rank Cumulative = 551.0
+*----- Defeat = 0.979434731220795 Rank Cumulative = 112.0
+*----- Hall-Marked = 0.8960151523104735 Rank Cumulative = 106.0
+*----- Punch And Go = 1.086337208970934 Rank Cumulative = 117.0
+*----- The First And Last = 1.102939779767852 Rank Cumulative = 119.0
+*----- The Sun = 0.3890301827687243 Rank Cumulative = 97.0
+
+ Lady Gregory X^2 Cumulative = 8.29023133314492 Rank Cumulative = 691.0
+*----- Coats = 1.2017674317476232 Rank Cumulative = 122.0
+*----- Darmer's Gold = 2.070468005764242 Rank Cumulative = 151.0
+*----- McDonough's Wife = 1.7346558355082466 Rank Cumulative = 142.0
+*----- The Bogie Men = 2.0016355359536298 Rank Cumulative = 148.0
+*----- The Full Moon = 1.281704524171177 Rank Cumulative = 128.0
+
+ Bernard Shaw X^2 Cumulative = 6.437773962015352 Rank Cumulative = 633.0
+*----- Augustus Does His Bit = 1.2921773497231521 Rank Cumulative = 128.0
+*----- Dark Lady Of The Sonnets = 1.0086453022807194 Rank Cumulative = 115.0
+*----- How He Lied = 1.3911519130168621 Rank Cumulative = 131.0
+*----- Overruled = 1.4812193806482847 Rank Cumulative = 135.0
+*----- The Inca Of Perusalem = 1.2645800163463343 Rank Cumulative = 124.0
+-----------------------------

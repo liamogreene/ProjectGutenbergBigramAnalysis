@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  George Bernard Shaw The Inca Of Perusalem PRINCESS . X2 value: 0.21359483142696806
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 15.662991196651815, Rank Cumulative = 924.0
+*----- Defeat = 1.1627893347687401 Rank Cumulative = 77.0
+*----- Hall-Marked = 4.998392699981723 Rank Cumulative = 194.0
+*----- Punch And Go = 6.207540734177181 Rank Cumulative = 431.0
+*----- The First And Last = 1.838870686339766 Rank Cumulative = 149.0
+*----- The Sun = 1.455397741384406 Rank Cumulative = 73.0
+
+ Lady Gregory X^2 Cumulative = 15.08495859588441 Rank Cumulative = 1120.0
+*----- Coats = 2.292295691130697 Rank Cumulative = 170.0
+*----- Darmer's Gold = 4.457809506387885 Rank Cumulative = 339.0
+*----- McDonough's Wife = 3.2088801370654214 Rank Cumulative = 255.0
+*----- The Bogie Men = 1.7955476337447789 Rank Cumulative = 143.0
+*----- The Full Moon = 3.330425627555628 Rank Cumulative = 213.0
+
+ Bernard Shaw X^2 Cumulative = 14.549676270686692 Rank Cumulative = 958.0
+*----- Augustus Does His Bit = 1.7145996967735142 Rank Cumulative = 94.0
+*----- Dark Lady Of The Sonnets = 4.4227288825775855 Rank Cumulative = 274.0
+*----- How He Lied = 1.8684404640365861 Rank Cumulative = 148.0
+*----- Overruled = 3.515918503512638 Rank Cumulative = 259.0
+*----- The Inca Of Perusalem = 3.027988723786367 Rank Cumulative = 183.0
+-----------------------------

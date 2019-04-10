@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  John Galsworthy Hall-Marked HANNIBAL . X2 value: 0.3495963385934682
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 5.511631302129115, Rank Cumulative = 615.0
+*----- Defeat = 1.1260399934610814 Rank Cumulative = 126.0
+*----- Hall-Marked = 0.8530338901025194 Rank Cumulative = 106.0
+*----- Punch And Go = 1.437024435619957 Rank Cumulative = 142.0
+*----- The First And Last = 1.206200852210753 Rank Cumulative = 134.0
+*----- The Sun = 0.8893321307348044 Rank Cumulative = 107.0
+
+ Lady Gregory X^2 Cumulative = 6.8403267941731 Rank Cumulative = 684.0
+*----- Coats = 1.1002829339237943 Rank Cumulative = 123.0
+*----- Darmer's Gold = 1.681533286795236 Rank Cumulative = 151.0
+*----- McDonough's Wife = 1.471065606150535 Rank Cumulative = 144.0
+*----- The Bogie Men = 1.539858517628124 Rank Cumulative = 145.0
+*----- The Full Moon = 1.0475864496754106 Rank Cumulative = 121.0
+
+ Bernard Shaw X^2 Cumulative = 4.892136296197789 Rank Cumulative = 576.0
+*----- Augustus Does His Bit = 0.9382856634122896 Rank Cumulative = 113.0
+*----- Dark Lady Of The Sonnets = 1.015802468628321 Rank Cumulative = 120.0
+*----- How He Lied = 1.0061883520112587 Rank Cumulative = 116.0
+*----- Overruled = 1.0160190448644983 Rank Cumulative = 116.0
+*----- The Inca Of Perusalem = 0.9158407672814215 Rank Cumulative = 111.0
+-----------------------------

@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  John Galsworthy Hall-Marked LADYELLA . X2 value: 0.04690362273062698
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 14.667525157723416, Rank Cumulative = 744.0
+*----- Defeat = 1.4552864469374875 Rank Cumulative = 89.0
+*----- Hall-Marked = 3.9536035424240668 Rank Cumulative = 118.0
+*----- Punch And Go = 5.86538357817628 Rank Cumulative = 340.0
+*----- The First And Last = 2.0573834813274563 Rank Cumulative = 138.0
+*----- The Sun = 1.3358681088581281 Rank Cumulative = 59.0
+
+ Lady Gregory X^2 Cumulative = 17.495365945552443 Rank Cumulative = 1032.0
+*----- Coats = 2.85070123137264 Rank Cumulative = 158.0
+*----- Darmer's Gold = 5.557941132016846 Rank Cumulative = 336.0
+*----- McDonough's Wife = 3.2570668430482836 Rank Cumulative = 201.0
+*----- The Bogie Men = 2.4738488169849084 Rank Cumulative = 145.0
+*----- The Full Moon = 3.3558079221297614 Rank Cumulative = 192.0
+
+ Bernard Shaw X^2 Cumulative = 19.578193200058962 Rank Cumulative = 1226.0
+*----- Augustus Does His Bit = 2.140963467250799 Rank Cumulative = 139.0
+*----- Dark Lady Of The Sonnets = 5.649172574438919 Rank Cumulative = 358.0
+*----- How He Lied = 2.7616819426878068 Rank Cumulative = 177.0
+*----- Overruled = 4.746858403431675 Rank Cumulative = 297.0
+*----- The Inca Of Perusalem = 4.279516812249763 Rank Cumulative = 255.0
+-----------------------------

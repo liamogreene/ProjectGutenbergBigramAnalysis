@@ -1,0 +1,29 @@
+filelist.txt
+George Bernard Shaw Augustus Does His Bit AUGUSTUS .txt
+George Bernard Shaw Augustus Does His Bit LADY .txt
+George Bernard Shaw Dark Lady Of The Sonnets ELIZABETH .txt
+George Bernard Shaw Dark Lady Of The Sonnets MAN .txt
+George Bernard Shaw Dark Lady Of The Sonnets SHAKESPEAR .txt
+George Bernard Shaw How He Lied To Her Husband HE .txt
+George Bernard Shaw How He Lied To Her Husband HERHUSBAND .txt
+George Bernard Shaw How He Lied To Her Husband WOMAN .txt
+George Bernard Shaw Overruled GREGORY .txt
+George Bernard Shaw Overruled JUNO .txt
+George Bernard Shaw Overruled LUNN .txt
+George Bernard Shaw The Inca Of Perusalem ERMYNTRUDE .txt
+George Bernard Shaw The Inca Of Perusalem INCA .txt
+George Bernard Shaw The Inca Of Perusalem PRINCESS .txt
+John Galsworthy Defeat GIRL .txt
+John Galsworthy The First And Last KEITH .txt
+John Galsworthy The First And Last LARRY .txt
+John Galsworthy The First And Last WANDA .txt
+Lady Gregory Coats Hazel .txt
+Lady Gregory Coats Mineog .txt
+Lady Gregory Darmer's Gold Darmer .txt
+Lady Gregory Darmer's Gold Delia .txt
+Lady Gregory Darmer's Gold Ralph .txt
+Lady Gregory Darmer's Gold Staffy .txt
+Lady Gregory McDonough's Wife McDonough .txt
+Lady Gregory McDonough's Wife SecondHag .txt
+Lady Gregory The Bogie Men Darby .txt
+Lady Gregory The Bogie Men Taig .txt

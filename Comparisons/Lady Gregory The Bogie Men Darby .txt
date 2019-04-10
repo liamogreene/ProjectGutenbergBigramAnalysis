@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  Lady Gregory The Bogie Men Darby . X2 value: 0.35874989168391824
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 5.548789601603997, Rank Cumulative = 629.0
+*----- Defeat = 1.0058062977368578 Rank Cumulative = 124.0
+*----- Hall-Marked = 1.0250998602854295 Rank Cumulative = 118.0
+*----- Punch And Go = 1.3469735974217627 Rank Cumulative = 129.0
+*----- The First And Last = 1.218851050990462 Rank Cumulative = 147.0
+*----- The Sun = 0.9520587951694851 Rank Cumulative = 111.0
+
+ Lady Gregory X^2 Cumulative = 5.207319914520665 Rank Cumulative = 614.0
+*----- Coats = 0.9268221188893794 Rank Cumulative = 110.0
+*----- Darmer's Gold = 1.0786475744438646 Rank Cumulative = 129.0
+*----- McDonough's Wife = 1.2384341987793812 Rank Cumulative = 138.0
+*----- The Bogie Men = 0.8729428882607169 Rank Cumulative = 106.0
+*----- The Full Moon = 1.0904731341473228 Rank Cumulative = 131.0
+
+ Bernard Shaw X^2 Cumulative = 5.243852337928468 Rank Cumulative = 632.0
+*----- Augustus Does His Bit = 1.0979878152854035 Rank Cumulative = 134.0
+*----- Dark Lady Of The Sonnets = 1.0918926254344274 Rank Cumulative = 130.0
+*----- How He Lied = 0.9741460451026156 Rank Cumulative = 116.0
+*----- Overruled = 1.0876607844880275 Rank Cumulative = 131.0
+*----- The Inca Of Perusalem = 0.9921650676179938 Rank Cumulative = 121.0
+-----------------------------

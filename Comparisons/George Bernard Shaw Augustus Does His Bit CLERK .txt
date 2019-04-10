@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  George Bernard Shaw Augustus Does His Bit CLERK . X2 value: 0.12026582587810926
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 5.363832362817578, Rank Cumulative = 596.0
+*----- Defeat = 1.0743060241694184 Rank Cumulative = 119.0
+*----- Hall-Marked = 0.8922924979932921 Rank Cumulative = 104.0
+*----- Punch And Go = 1.3736085486134326 Rank Cumulative = 141.0
+*----- The First And Last = 1.0549782687874079 Rank Cumulative = 120.0
+*----- The Sun = 0.9686470232540269 Rank Cumulative = 112.0
+
+ Lady Gregory X^2 Cumulative = 6.800390547124494 Rank Cumulative = 678.0
+*----- Coats = 1.15781242787729 Rank Cumulative = 122.0
+*----- Darmer's Gold = 1.6615071862901911 Rank Cumulative = 151.0
+*----- McDonough's Wife = 1.4314709114202913 Rank Cumulative = 141.0
+*----- The Bogie Men = 1.5300910207503673 Rank Cumulative = 147.0
+*----- The Full Moon = 1.0195090007863552 Rank Cumulative = 117.0
+
+ Bernard Shaw X^2 Cumulative = 5.0350991390862445 Rank Cumulative = 601.0
+*----- Augustus Does His Bit = 0.6288853218996809 Rank Cumulative = 108.0
+*----- Dark Lady Of The Sonnets = 1.200334814492741 Rank Cumulative = 128.0
+*----- How He Lied = 1.110931628330238 Rank Cumulative = 123.0
+*----- Overruled = 1.1902946627389495 Rank Cumulative = 131.0
+*----- The Inca Of Perusalem = 0.904652711624635 Rank Cumulative = 111.0
+-----------------------------

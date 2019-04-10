@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely: [Lady Gregory Coats Hazel . X2 value: 0.2909188634654944
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 5.976174385325128, Rank Cumulative = 690.0
+*----- Defeat = 1.132007142787923 Rank Cumulative = 138.0
+*----- Hall-Marked = 0.9306352016296964 Rank Cumulative = 118.0
+*----- Punch And Go = 1.565079438621647 Rank Cumulative = 152.0
+*----- The First And Last = 1.2022494771617032 Rank Cumulative = 143.0
+*----- The Sun = 1.1462031251241596 Rank Cumulative = 139.0
+
+ Lady Gregory X^2 Cumulative = 4.357935659329992 Rank Cumulative = 566.0
+*----- Coats = 0.759578960928203 Rank Cumulative = 108.0
+*----- Darmer's Gold = 0.903319091813259 Rank Cumulative = 114.0
+*----- McDonough's Wife = 1.0061986882090377 Rank Cumulative = 124.0
+*----- The Bogie Men = 0.910097725111827 Rank Cumulative = 116.0
+*----- The Full Moon = 0.7787411932676656 Rank Cumulative = 104.0
+
+ Bernard Shaw X^2 Cumulative = 5.032443110526207 Rank Cumulative = 619.0
+*----- Augustus Does His Bit = 0.9061662239531361 Rank Cumulative = 115.0
+*----- Dark Lady Of The Sonnets = 1.22868281128994 Rank Cumulative = 139.0
+*----- How He Lied = 0.941866806040426 Rank Cumulative = 119.0
+*----- Overruled = 1.0418349166189291 Rank Cumulative = 131.0
+*----- The Inca Of Perusalem = 0.9138923526237759 Rank Cumulative = 115.0
+-----------------------------

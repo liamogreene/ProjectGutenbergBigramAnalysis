@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  George Bernard Shaw How He Lied To Her Husband HERHUSBAND . X2 value: 0.21757871492903674
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 5.370006253730221, Rank Cumulative = 651.0
+*----- Defeat = 1.0297019909147267 Rank Cumulative = 127.0
+*----- Hall-Marked = 0.8156604993450762 Rank Cumulative = 111.0
+*----- Punch And Go = 1.4227967788273626 Rank Cumulative = 153.0
+*----- The First And Last = 1.0691428705988588 Rank Cumulative = 131.0
+*----- The Sun = 1.0327041140441957 Rank Cumulative = 129.0
+
+ Lady Gregory X^2 Cumulative = 5.339333479088557 Rank Cumulative = 649.0
+*----- Coats = 1.0038729820913495 Rank Cumulative = 124.0
+*----- Darmer's Gold = 1.2616815226389242 Rank Cumulative = 146.0
+*----- McDonough's Wife = 1.0389684658918197 Rank Cumulative = 128.0
+*----- The Bogie Men = 1.221446678803396 Rank Cumulative = 146.0
+*----- The Full Moon = 0.8133638296630687 Rank Cumulative = 105.0
+
+ Bernard Shaw X^2 Cumulative = 4.370950664815214 Rank Cumulative = 575.0
+*----- Augustus Does His Bit = 0.8780791474304414 Rank Cumulative = 111.0
+*----- Dark Lady Of The Sonnets = 0.8492329983611595 Rank Cumulative = 107.0
+*----- How He Lied = 0.7487595132757856 Rank Cumulative = 112.0
+*----- Overruled = 1.1065600943015395 Rank Cumulative = 136.0
+*----- The Inca Of Perusalem = 0.7883189114462884 Rank Cumulative = 109.0
+-----------------------------

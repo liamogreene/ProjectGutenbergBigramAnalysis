@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  George Bernard Shaw Overruled LUNN . X2 value: 0.2606147891342571
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 14.832961380829865, Rank Cumulative = 1121.0
+*----- Defeat = 0.978189817938093 Rank Cumulative = 72.0
+*----- Hall-Marked = 4.960649219384594 Rank Cumulative = 297.0
+*----- Punch And Go = 5.760079492937475 Rank Cumulative = 484.0
+*----- The First And Last = 1.6659227550193143 Rank Cumulative = 164.0
+*----- The Sun = 1.4681200955503932 Rank Cumulative = 104.0
+
+ Lady Gregory X^2 Cumulative = 12.030143072451573 Rank Cumulative = 1039.0
+*----- Coats = 1.7926660755845285 Rank Cumulative = 168.0
+*----- Darmer's Gold = 3.679848606158437 Rank Cumulative = 346.0
+*----- McDonough's Wife = 2.5564589891499994 Rank Cumulative = 238.0
+*----- The Bogie Men = 1.4467801718266644 Rank Cumulative = 142.0
+*----- The Full Moon = 2.554389229731945 Rank Cumulative = 145.0
+
+ Bernard Shaw X^2 Cumulative = 12.402515374158538 Rank Cumulative = 842.0
+*----- Augustus Does His Bit = 1.375148740108736 Rank Cumulative = 81.0
+*----- Dark Lady Of The Sonnets = 4.208559757329643 Rank Cumulative = 320.0
+*----- How He Lied = 1.4859114421060622 Rank Cumulative = 115.0
+*----- Overruled = 2.5744769596336368 Rank Cumulative = 149.0
+*----- The Inca Of Perusalem = 2.7584184749804583 Rank Cumulative = 177.0
+-----------------------------

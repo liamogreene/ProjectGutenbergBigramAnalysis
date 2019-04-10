@@ -1,0 +1,25 @@
+----------------------------------------
+This is likely:  John Galsworthy The Sun GIRL . X2 value: 0.012087232579335548
+----------------------------------------
+
+John Galsworthy X^2 Cumulative = 12.755568763685806, Rank Cumulative = 746.0
+*----- Defeat = 1.3373828293034493 Rank Cumulative = 93.0
+*----- Hall-Marked = 3.7525878886868176 Rank Cumulative = 165.0
+*----- Punch And Go = 4.983371169744371 Rank Cumulative = 315.0
+*----- The First And Last = 2.0098067689488586 Rank Cumulative = 145.0
+*----- The Sun = 0.6724201070023059 Rank Cumulative = 28.0
+
+ Lady Gregory X^2 Cumulative = 16.085217472018158 Rank Cumulative = 1073.0
+*----- Coats = 2.538784959688278 Rank Cumulative = 153.0
+*----- Darmer's Gold = 5.3816293445781875 Rank Cumulative = 344.0
+*----- McDonough's Wife = 3.072582373560441 Rank Cumulative = 220.0
+*----- The Bogie Men = 1.8240177094480363 Rank Cumulative = 128.0
+*----- The Full Moon = 3.268203084743216 Rank Cumulative = 228.0
+
+ Bernard Shaw X^2 Cumulative = 17.435250948367294 Rank Cumulative = 1183.0
+*----- Augustus Does His Bit = 2.130646685455416 Rank Cumulative = 154.0
+*----- Dark Lady Of The Sonnets = 5.073814396144195 Rank Cumulative = 352.0
+*----- How He Lied = 2.3993920862506997 Rank Cumulative = 174.0
+*----- Overruled = 3.714914695453437 Rank Cumulative = 243.0
+*----- The Inca Of Perusalem = 4.11648308506355 Rank Cumulative = 260.0
+-----------------------------
